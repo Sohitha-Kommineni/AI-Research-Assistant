@@ -1,0 +1,16 @@
+{
+  "name": "ai-research-assistant",
+  "version": "1.0.0",
+  "description": "Full-stack AI research assistant with document ingestion, RAG, and citations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "openai": "^6.18.0"
+  }
+}
