@@ -4,8 +4,8 @@ A full-stack research assistant that lets you upload documents (PDF, TXT, or URL
 and ask questions that are answered only from those sources, with citations.
 <p align="left">
   <img src="https://raw.githubusercontent.com/Sohitha-Kommineni/AI-Research-Assistant/a54d425fa93275c705af9941c8e02d6df862d085/images/Screenshot%202026-02-08%20011858.png" width="250" height="300" />
-  <img src="https://raw.githubusercontent.com/Sohitha-Kommineni/AI-Research-Assistant/a54d425fa93275c705af9941c8e02d6df862d085/images/Screenshot%202026-02-07%20221942.png" width="250" height="400" />
-  <img src="https://raw.githubusercontent.com/Sohitha-Kommineni/AI-Research-Assistant/a54d425fa93275c705af9941c8e02d6df862d085/images/Screenshot%202026-02-08%20010349.png" width="250" height="350" />
+  <img src="https://raw.githubusercontent.com/Sohitha-Kommineni/AI-Research-Assistant/a54d425fa93275c705af9941c8e02d6df862d085/images/Screenshot%202026-02-07%20221942.png" width="250" height="500" />
+  <img src="https://raw.githubusercontent.com/Sohitha-Kommineni/AI-Research-Assistant/a54d425fa93275c705af9941c8e02d6df862d085/images/Screenshot%202026-02-08%20010349.png" width="250" height="450" />
 </p>
 
 ## Highlights
