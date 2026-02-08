@@ -13,7 +13,7 @@ and ask questions that are answered only from those sources, with citations.
 ## Tech stack
 - Backend: FastAPI + SQLAlchemy + PostgreSQL
 - Frontend: React (Vite)
-- RAG: chunking + embeddings + cosine retrieval + optional OpenAI LLM
+- RAG: chunking + embeddings + cosine retrieval + OpenAI LLM
 
 ## Local development (Docker)
 1. Start services:
@@ -25,12 +25,10 @@ and ask questions that are answered only from those sources, with citations.
 Backend:
 - `DATABASE_URL` (default in compose file)
 - `JWT_SECRET`
-- `OPENAI_API_KEY` (optional; enables real embeddings + LLM answers)
+- `OPENAI_API_KEY` (enables real embeddings + LLM answers)
 
 Frontend:
 - `VITE_API_URL` (defaults to `http://localhost:8000`)
 
 ## Usage notes
-- Without `OPENAI_API_KEY`, the app uses a deterministic hash-based embedding
-  fallback (no external API cost, lower quality retrieval).
 - If a PDF is scanned (no text layer), upload an OCR version for best results.
